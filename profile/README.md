@@ -42,7 +42,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/just-taco/just-taco/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/just-taco/just-taco/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
