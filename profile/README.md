@@ -22,7 +22,6 @@ I’m a Danish developer driven by a "build it right, build it once" philosophy.
 <a href="https://www.github.com/just-taco" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/just-taco?logo=github&style=for-the-badge&color=0891b2&labelColor=171717" /></a><a href="https://www.twitch.tv/tacothedev_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/tacothedev_?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=171717&label=TWITCH+STATUS" /></a>
-### Badges
 
 <b>My GitHub Stats</b>
 
