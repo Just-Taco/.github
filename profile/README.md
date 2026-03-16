@@ -1,6 +1,4 @@
 # Hello 👋, I'm Tacothedev
-### Full stack developer
-
 ## Skills
 
 <p align="left">
